@@ -8,6 +8,7 @@
     - Zombie
     - Revolutionary
     - AllHostile
+    - SyndicateAgent # Imperial Syndicate Agent Fix
 
 - type: npcFaction
   id: NanoTrasen
@@ -48,6 +49,7 @@
   - Zombie
   - Revolutionary
   - AllHostile
+  - SyndicateAgent # Imperial Syndicate Agent Fix
 
 - type: npcFaction
   id: SimpleNeutral
@@ -73,6 +75,7 @@
   - Zombie
   - Revolutionary
   - AllHostile
+  - SyndicateAgent # Imperial Syndicate Agent Fix
 
 - type: npcFaction
   id: Zombie
@@ -85,6 +88,7 @@
   - PetsNT
   - Revolutionary
   - AllHostile
+  - SyndicateAgent # Imperial Syndicate Agent Fix
 
 - type: npcFaction
   id: Revolutionary
@@ -109,3 +113,4 @@
   - Xeno
   - Zombie
   - Revolutionary
+  - SyndicateAgent # Imperial Syndicate Agent Fix
