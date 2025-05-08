@@ -37,6 +37,10 @@ ent-WallShuttleStarCorps = стена Звёздного Корпуса
     .desc = Удерживает воздух внутри.
 ent-DarkWallShuttleStarCorps = стена Звёздного Корпуса
     .desc = Удерживает воздух внутри.
+ent-DiagonalWallShuttleStarCorps = стена Звёздного Корпуса
+    .desc = Удерживает воздух внутри.
+ent-DiagonalDarkWallShuttleStarCorps = стена Звёздного Корпуса
+    .desc = Удерживает воздух внутри.
 
 ent-CivilianFederationLocker = гражданский шкафчик
 ent-PatrolLocker = оружейный шкаф
@@ -51,3 +55,15 @@ ent-ElysiumPosterHolo = голографический дисплей
 
 ent-StarCorpsTradingTerminal = торговый терминал
     .desc = Несколько голографических дисплеев, с которыми вы можете взаимодействовать.
+ent-LaserBlastDoor = энергетический барьер
+    .desc = На нём написано «ЛАЗЕРНАЯ ОПАСНОСТЬ».
+ent-LaserBlastDoorOpen = энергетический барьер
+    .desc = На нём написано «ЛАЗЕРНАЯ ОПАСНОСТЬ».
+ent-LaserStarCorpsBlastDoor = энергетический барьер
+    .desc = На нём написано «ЛАЗЕРНАЯ ОПАСНОСТЬ».
+ent-LaserStarCorpsBlastDoorOpen = энергетический барьер
+    .desc = На нём написано «ЛАЗЕРНАЯ ОПАСНОСТЬ».
+ent-LaserFederationBlastDoor = энергетический барьер
+    .desc = На нём написано «ЛАЗЕРНАЯ ОПАСНОСТЬ».
+ent-LaserFederationBlastDoorOpen = энергетический барьер
+    .desc = На нём написано «ЛАЗЕРНАЯ ОПАСНОСТЬ».

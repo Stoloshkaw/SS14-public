@@ -228,3 +228,5 @@ ent-JukeboxCircuitBoard = музыкальный автомат (машинна�
     .desc = Печатная плата для музыкального автомата.
 ent-SpaceHeaterMachineCircuitBoard = машинная плата обогревателя
     .desc = { ent-BaseMachineCircuitboard.desc }
+ent-SMESAdvancedMachineCircuitboard = продвинутый СМЭС (машинная плата)
+    .desc = Машинная печатная плата для продвинутого СМЭС.

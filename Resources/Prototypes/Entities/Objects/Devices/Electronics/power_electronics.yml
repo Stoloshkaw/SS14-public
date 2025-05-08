@@ -15,7 +15,7 @@
       chemicalComposition:
         Silicon: 20
     - type: StaticPrice
-      price: 34
+      price: 5 # Imperial Recipes Prices
 
 # Wallmount Substation
 - type: entity
@@ -28,7 +28,7 @@
       sprite: Objects/Misc/module.rsi
       state: charger_APC
     - type: StaticPrice
-      price: 40
+      price: 10 # Imperial Recipes Prices
     - type: Tag
       tags:
         - WallmountSubstationElectronics
@@ -77,7 +77,7 @@
   components:
     - type: Sprite
       sprite: Objects/Misc/module.rsi
-      state: generic
+      state: engineering
     - type: StaticPrice
       price: 85
     - type: Tag
