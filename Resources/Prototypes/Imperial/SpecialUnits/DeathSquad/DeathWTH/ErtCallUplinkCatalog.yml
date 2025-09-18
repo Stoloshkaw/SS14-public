@@ -70,10 +70,10 @@
   - AmmoCombat
 
 - type: listing
-  id: DSCallUplinkMagazineBoxDelivererUAPAlt
-  name: ert-uplink-ammononcombat-magazinedelivereruap-name
-  description: ert-uplink-ammononcombat-magazinedelivereruap-desc
-  productEntity: ItemDelivererMagazineUAP
+  id: DSCallUplinkMagazineBoxDelivererAPAlt
+  name: ert-uplink-ammononcombat-magazinedelivererap-name
+  description: ert-uplink-ammononcombat-magazinedelivererap-desc
+  productEntity: ItemDelivererMagazineAP
   cost:
     BlueSpaceCube: 6
   categories:
@@ -662,15 +662,18 @@
   categories:
   - Utilities
 
-- type: listing
-  id: DSAmeliaPlushieEasterEgg
-  name: ert-uplink-utilities-ami-name
-  description: ert-uplink-utilities-ami-desc
-  productEntity: PlushieSOO
-  cost:
-    BlueSpaceCube: 1
-  categories:
-  - Utilities
+# - type: listing #Убрано для соблюдения игровой атмосферы
+#   id: DSAmeliaPlushieEasterEgg
+#   name: ert-uplink-utilities-ami-name
+#   description: ert-uplink-utilities-ami-desc
+#   productEntity: PlushieSOO
+#   cost:
+#     BlueSpaceCube: 10
+#   categories:
+#   - Utilities
+#   conditions:
+#   - !type:ListingLimitedStockCondition
+#     stock: 1
 
 - type: listing
   id: DSCallUplinkHandheldGPSBasicAlt

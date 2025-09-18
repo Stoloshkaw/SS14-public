@@ -67,6 +67,11 @@ public sealed class LockSystem : EntitySystem
         if (args.Handled || !args.Complex)
             return;
 
+        if (lockComp.Locked) // Imperial Space LockFix Start
+        {
+            args.Handled = true;
+            return;
+        } // Imperial Space LockFix End
         // Only attempt an unlock by default on Activate
         if (lockComp.Locked && lockComp.UnlockOnClick)
         {
@@ -282,7 +287,7 @@ public sealed class LockSystem : EntitySystem
 
     private void AddToggleLockVerb(EntityUid uid, LockComponent component, GetVerbsEvent<AlternativeVerb> args)
     {
-        if (!args.CanAccess || !args.CanInteract)
+        if (!args.CanAccess || !args.CanInteract || !args.CanComplexInteract)
             return;
 
         AlternativeVerb verb = new()
