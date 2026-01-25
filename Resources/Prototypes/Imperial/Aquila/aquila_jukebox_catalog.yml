@@ -1,0 +1,59 @@
+- type: jukebox
+  id: BeachComa
+  name: LuckyIdiots - Beach Coma
+  path:
+    path: /Audio/Imperial/AquilaJukebox/beach_coma.ogg
+
+- type: jukebox
+  id: Dejection
+  name: LuckyIdiots - Dejection
+  path:
+    path: /Audio/Imperial/AquilaJukebox/dejection.ogg
+
+- type: jukebox
+  id: Existentialism
+  name: LuckyIdiots - Existentialism
+  path:
+    path: /Audio/Imperial/AquilaJukebox/existentialism.ogg
+
+- type: jukebox
+  id: IcySummer
+  name: LuckyIdiots - Icy Summer
+  path:
+    path: /Audio/Imperial/AquilaJukebox/icy_summer.ogg
+
+- type: jukebox
+  id: MyCitysDeath
+  name: LuckyIdiots - My City's Death
+  path:
+    path: /Audio/Imperial/AquilaJukebox/mycitysdeath.ogg
+
+- type: jukebox
+  id: NoSafeNoSound
+  name: LuckyIdiots - no Safe, no Sound
+  path:
+    path: /Audio/Imperial/AquilaJukebox/no_safe_no_sound.ogg
+
+- type: jukebox
+  id: RainCondition
+  name: LuckyIdiots - Rain Condition
+  path:
+    path: /Audio/Imperial/AquilaJukebox/rain_condition.ogg
+
+- type: jukebox
+  id: SilentNight
+  name: LuckyIdiots - Silent Night
+  path:
+    path: /Audio/Imperial/AquilaJukebox/silent_night.ogg
+
+- type: jukebox
+  id: Surface
+  name: LuckyIdiots - Surface
+  path:
+    path: /Audio/Imperial/AquilaJukebox/surface.ogg
+
+- type: jukebox
+  id: AbyssField
+  name: LuckyIdiots - Abyss Field
+  path:
+    path: /Audio/Imperial/AquilaJukebox/abyss_field.ogg
