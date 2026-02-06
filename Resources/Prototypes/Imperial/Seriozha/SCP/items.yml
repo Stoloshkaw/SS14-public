@@ -32,6 +32,9 @@
     state: icon
   - type: Item
     sprite: Imperial/Seriozha/SCP/misc/encryptionkey.rsi
+  - type: Tag
+    tags:
+    - EncryptionNedraconnection
 
 - type: entity
   parent: EncryptionKey
@@ -49,6 +52,9 @@
     state: icon
   - type: Item
     sprite: Imperial/Seriozha/SCP/misc/cmdencryptionkey.rsi
+  - type: Tag
+    tags:
+    - EncryptionNedraCMDconnection
 
 - type: entity
   parent: EncryptionKey
@@ -106,6 +112,7 @@
   name: Nedra stamp
   parent: RubberStampMime
   id: RubberStampNedra
+  suffix: seriozha, Недра
   components:
     - type: Stamp
       stampedName: stamp-nedra-name
@@ -117,7 +124,7 @@
 
 - type: entity
   name: Nedra command stamp
-  parent: RubberStampMime
+  parent: RubberStampNedra
   id: RubberStampNedraCommand
   components:
     - type: Stamp
@@ -130,7 +137,7 @@
 
 - type: entity
   name: Nedra comitet stamp
-  parent: RubberStampMime
+  parent: RubberStampNedra
   id: RubberStampNedraComitet
   components:
     - type: Stamp

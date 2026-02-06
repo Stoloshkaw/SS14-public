@@ -117,6 +117,30 @@
     },
     {
       "name": "scrubber-open"
+    },
+    {
+      "name": "ozonium"
+    },
+    {
+      "name": "thermonium"
+    },
+    {
+      "name": "hydrogen"
+    },
+    {
+      "name": "phazonium"
+    },
+    {
+      "name": "deuterium"
+    },
+    {
+      "name": "hyperNoblium"
+    },
+    {
+      "name": "antiNoblium"
+    },
+    {
+      "name": "BZ"
     }
   ]
 }
